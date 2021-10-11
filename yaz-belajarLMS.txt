@@ -3,3 +3,4 @@ pelajari isi moodle
 edit moodle
 penerapan moodle
 - moodle untuk e-learning di sekolah
+- tambahkan animasi pembelajaran
