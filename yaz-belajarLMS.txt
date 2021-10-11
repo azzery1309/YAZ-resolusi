@@ -4,3 +4,4 @@ edit moodle
 penerapan moodle
 - moodle untuk e-learning di sekolah
 - tambahkan animasi pembelajaran
+  ^ gabungkan audio dan video di canva
